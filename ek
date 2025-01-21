@@ -1,0 +1,194 @@
+<Swiper modules={[Navigation, Pagination, Autoplay, A11y]}
+      spaceBetween={50}
+      slidesPerView={1}
+      navigation
+      pagination={{ clickable: true }}
+      scrollbar={{ draggable: true }}
+      autoplay={{
+        delay: 3000, // 3 saniyede bir slayt değişecek
+        disableOnInteraction:false, 
+      }}>
+        <SwiperSlide><div style={{ backgroundColor: "lightblue", height: "300px", display: "flex", alignItems: "center", justifyContent: "center" }}>Slayt 1</div></SwiperSlide>
+        <SwiperSlide><div style={{ backgroundColor: "lightgreen", height: "300px", display: "flex", alignItems: "center", justifyContent: "center" }}>Slayt 2</div></SwiperSlide>
+        <SwiperSlide><div style={{ backgroundColor: "lightcoral", height: "300px", display: "flex", alignItems: "center", justifyContent: "center" }}>Slayt 3</div></SwiperSlide>
+    </Swiper>
+
+//Kart Yapısı Prodcutcard
+    <Card sx={{width:"100%"}} >
+      <CardActionArea>
+        <CardHeader sx={{position:"relative"}}>
+          <Checkbox {...label} icon={<FavoriteBorder />} checkedIcon={<Favorite />} color='error' sx={{position:"absolute",left:"250px",top:"12px"}} />
+          <CardMedia component="img" height="250" image={Product1}/>
+        </CardHeader>
+        <CardContent>
+          <NavLink style={{ textDecoration: 'none'}} ><Typography variant="body2" component="div" fontWeight={700} >Yves Rocher</Typography></NavLink> 
+          <Typography  variant="body2" component="div"  fontWeight={500} sx={{paddingBottom:"12px",borderBottom:"1px solid #f0f0f4"}}>Evidence Parfüm-Banyo Seti </Typography>
+          <Typography variant="body2" sx={{ color:{theme} ,marginTop:"12px"}}>
+            Lizards are a widespread group of squamate reptiles, with over 
+          </Typography>
+          <Stack spacing={2} sx={{marginTop:"10px"}} direction="row" alignItems="center">
+            <Stack direction="row" alignItems="center"spacing={1} >
+              <Typography variant='body2'>4.5</Typography>
+              <Rating name="half-rating-read" defaultValue={2.5} precision={0.5} size="small" readOnly />
+            </Stack>
+            <Typography variant='body2'>(10560) </Typography>
+          </Stack>
+          <Typography variant='body1' fontWeight={700}color="error" sx={{marginTop:"20px"}}> 750 TL</Typography>
+        </CardContent>
+        <CardActions>
+           <Button sx={{width:"100%"}} variant="contained" color='error'>Sepete Ekle</Button>
+        </CardActions>
+      </CardActionArea>
+    </Card>
+
+
+//alertim
+
+
+
+//home card yapısının taamamı
+<div className='row'>
+  <div className='col-lg-3'>
+    <Card sx={{width:"100%"}} >
+      <CardActionArea>
+        <CardHeader sx={{position:"relative"}}>
+          <Checkbox {...label} icon={<FavoriteBorder />} checkedIcon={<Favorite />} color='error' sx={{position:"absolute",left:"250px",top:"12px"}} />
+          <CardMedia component="img" height="250" image={fav1} sx={{objectFit:"contain"}}/>
+        </CardHeader>
+        <CardContent>
+          <NavLink style={{ textDecoration: 'none'}} ><Typography variant="body2" component="div" fontWeight={700} >Yves Rocher</Typography></NavLink> 
+          <Typography  variant="body2" component="div"  fontWeight={500} sx={{paddingBottom:"12px",borderBottom:"1px solid #f0f0f4"}}>Evidence Parfüm-Banyo Seti </Typography>
+          <Typography variant="body2" sx={{ color:{theme} ,marginTop:"12px"}}>
+            Lizards are a widespread group of squamate reptiles, with over 
+          </Typography>
+          <Stack spacing={2} sx={{marginTop:"10px"}} direction="row" alignItems="center">
+            <Stack direction="row" alignItems="center"spacing={1} >
+              <Typography variant='body2'>3.5</Typography>
+              <Rating name="half-rating-read" defaultValue={2.5} precision={0.5} size="small" readOnly />
+            </Stack>
+            <Typography variant='body2'>(10560) </Typography>
+          </Stack>
+          <Typography variant='body1' fontWeight={700}color="error" sx={{marginTop:"20px"}}> 750 TL</Typography>
+        </CardContent>
+        <CardActions>
+           <Button sx={{width:"100%"}} variant="contained" color='error'>Sepete Ekle</Button>
+        </CardActions>
+      </CardActionArea>
+    </Card>
+  </div>
+  <div className='col-lg-3'>
+    <Card sx={{width:"100%"}} >
+      <CardActionArea>
+        <CardHeader sx={{position:"relative"}}>
+          <Checkbox {...label} icon={<FavoriteBorder />} checkedIcon={<Favorite />} color='error' sx={{position:"absolute",left:"250px",top:"12px"}} />
+          <CardMedia component="img" height="250" image={fav4}  sx={{objectFit:"contain"}}/>
+        </CardHeader>
+        <CardContent>
+          <NavLink style={{ textDecoration: 'none'}} ><Typography variant="body2" component="div" fontWeight={700} >Yves Rocher</Typography></NavLink> 
+          <Typography  variant="body2" component="div"  fontWeight={500} sx={{paddingBottom:"12px",borderBottom:"1px solid #f0f0f4"}}>Evidence Parfüm-Banyo Seti </Typography>
+          <Typography variant="body2" sx={{ color:{theme} ,marginTop:"12px"}}>
+            Lizards are a widespread group of squamate reptiles, with over 
+          </Typography>
+          <Stack spacing={2} sx={{marginTop:"10px"}} direction="row" alignItems="center">
+            <Stack direction="row" alignItems="center"spacing={1} >
+              <Typography variant='body2'>4.7</Typography>
+              <Rating name="half-rating-read" defaultValue={4.5} precision={0.5} size="small" readOnly />
+            </Stack>
+            <Typography variant='body2'>(10560) </Typography>
+          </Stack>
+          <Typography variant='body1' fontWeight={700}color="error" sx={{marginTop:"20px"}}> 750 TL</Typography>
+        </CardContent>
+        <CardActions>
+           <Button sx={{width:"100%"}} variant="contained" color='error'>Sepete Ekle</Button>
+        </CardActions>
+      </CardActionArea>
+    </Card>
+  </div>
+  <div className='col-lg-3'>
+    <Card sx={{width:"100%"}} >
+      <CardActionArea>
+        <CardHeader sx={{position:"relative"}}>
+          <Checkbox {...label} icon={<FavoriteBorder />} checkedIcon={<Favorite />} color='error' sx={{position:"absolute",left:"250px",top:"12px"}} />
+          <CardMedia component="img" height="250" image={fav2} sx={{objectFit:"contain"}}/>
+        </CardHeader>
+        <CardContent>
+          <NavLink style={{ textDecoration: 'none'}} ><Typography variant="body2" component="div" fontWeight={700} >Yves Rocher</Typography></NavLink> 
+          <Typography  variant="body2" component="div"  fontWeight={500} sx={{paddingBottom:"12px",borderBottom:"1px solid #f0f0f4"}}>Evidence Parfüm-Banyo Seti </Typography>
+          <Typography variant="body2" sx={{ color:{theme} ,marginTop:"12px"}}>
+            Lizards are a widespread group of squamate reptiles, with over 
+          </Typography>
+          <Stack spacing={2} sx={{marginTop:"10px"}} direction="row" alignItems="center">
+            <Stack direction="row" alignItems="center"spacing={1} >
+              <Typography variant='body2'>3.7</Typography>
+              <Rating name="half-rating-read" defaultValue={3.7} precision={0.5} size="small" readOnly />
+            </Stack>
+            <Typography variant='body2'>(10560) </Typography>
+          </Stack>
+          <Typography variant='body1' fontWeight={700}color="error" sx={{marginTop:"20px"}}> 750 TL</Typography>
+        </CardContent>
+        <CardActions>
+           <Button sx={{width:"100%"}} variant="contained" color='error'>Sepete Ekle</Button>
+        </CardActions>
+      </CardActionArea>
+    </Card>
+  </div>
+  <div className='col-lg-3'>
+    <Card sx={{width:"100%"}} >
+      <CardActionArea>
+        <CardHeader sx={{position:"relative"}}>
+          <Checkbox {...label} icon={<FavoriteBorder />} checkedIcon={<Favorite />} color='error' sx={{position:"absolute",left:"250px",top:"12px"}} />
+          <CardMedia component="img" height="250" image={fav3} sx={{objectFit:"contain"}}/>
+        </CardHeader>
+        <CardContent>
+          <NavLink style={{ textDecoration: 'none'}} ><Typography variant="body2" component="div" fontWeight={700} >Yves Rocher</Typography></NavLink> 
+          <Typography  variant="body2" component="div"  fontWeight={500} sx={{paddingBottom:"12px",borderBottom:"1px solid #f0f0f4"}}>Evidence Parfüm-Banyo Seti </Typography>
+          <Typography variant="body2" sx={{ color:{theme} ,marginTop:"12px"}}>
+            Lizards are a widespread group of squamate reptiles, with over 
+          </Typography>
+          <Stack spacing={2} sx={{marginTop:"10px"}} direction="row" alignItems="center">
+            <Stack direction="row" alignItems="center"spacing={1} >
+              <Typography variant='body2'>4.1</Typography>
+              <Rating name="half-rating-read" defaultValue={4} precision={0.5} size="small" readOnly />
+            </Stack>
+            <Typography variant='body2'>(10560) </Typography>
+          </Stack>
+          <Typography variant='body1' fontWeight={700}color="error" sx={{marginTop:"20px"}}> 750 TL</Typography>
+        </CardContent>
+        <CardActions>
+           <Button sx={{width:"100%"}} variant="contained" color='error'>Sepete Ekle</Button>
+        </CardActions>
+      </CardActionArea>
+    </Card>
+  </div>
+</div>
+
+
+
+
+//kozmatik kısmının divi 
+<div className='col-lg-4 mt-4'>
+  <Card sx={{width:"100%"}} key={index}>
+    <CardActionArea>
+        <CardHeader sx={{position:"relative"}}>
+        <Checkbox {...label} icon={<FavoriteBorder />} checkedIcon={<Favorite />} color='error' sx={{position:"absolute",left:"250px",top:"12px"}} />
+        <CardMedia component="img" height="250" image={women.image} sx={{objectFit:"contain"}}/>
+      </CardHeader>
+      <CardContent>
+        <NavLink style={{ textDecoration: 'none'}} ><Typography variant="body2" component="div" fontWeight={700} >{women.brand}</Typography></NavLink> 
+        <Typography  variant="body2" component="div"  fontWeight={500} sx={{paddingBottom:"12px",borderBottom:"1px solid #f0f0f4"}}>{women.name} </Typography>
+        <Typography variant="body2" sx={{ color:{theme} ,marginTop:"12px"}}>{women.content} </Typography>
+        <Stack spacing={2} sx={{marginTop:"10px"}} direction="row" alignItems="center">
+          <Stack direction="row" alignItems="center"spacing={1} >
+            <Typography variant='body2'>{women.commentstart}</Typography>
+            <Rating name="half-rating-read" defaultValue={2.5} precision={0.5} size="small" readOnly />
+          </Stack>
+          <Typography variant='body2'>({women.commentnumber}) </Typography>
+        </Stack>
+          <Typography variant='body1' fontWeight={700}color="error" sx={{marginTop:"20px"}}> {women.price} TL</Typography>
+      </CardContent>
+      <CardActions>
+        <Button sx={{width:"100%",backgroundColor:"#973131"}} variant="contained"  >Sepete Ekle</Button>
+      </CardActions>
+    </CardActionArea>
+  </Card>
+  </div>

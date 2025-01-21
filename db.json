@@ -1,0 +1,541 @@
+
+{
+    "products" :[
+     {
+        "id": "1f",
+        "brand":"Yves Rocher1",
+        "name": "Evidence Parfüm - Banyo Seti1",
+        "image": "/images/fav1.jpg",
+        "content":"Lizards are a widespread group of squamate reptiles, with over1 ",
+        "commentnumber":"12003",
+        "commentstart":"4.5",
+        "piece":"1",
+        "price": "750"
+      },
+      {
+        "id": "2f",
+        "brand":"Yves Rocher2",
+        "name": "Evidence Parfüm - Banyo Seti2",
+        "image": "/images/fav2.jpg",
+        "content":"Lizards are a widespread group of squamate reptiles, with over2 ",
+        "commentnumber":"17604",
+        "commentstart":"3.5",
+        "piece":"1",
+        "price": "650"
+      },
+      {
+        "id": "3f",
+        "brand":"Yves Rocher3",
+        "name": "Evidence Parfüm - Banyo Seti3",
+        "image": "/images/fav3.jpg",
+        "content":"Lizards are a widespread group of squamate reptiles, with over3 ",
+        "commentnumber":"7043",
+        "commentstart":"4.2",
+        "piece":"1",
+        "price": "550"
+      },
+      {
+        "id": "4f",
+        "brand":"Yves Rocher4",
+        "name": "Evidence Parfüm - Banyo Seti4",
+        "image": "/images/fav4.jpg",
+        "content":"Lizards are a widespread group of squamate reptiles, with over4 ",
+        "commentnumber":"3405",
+        "commentstart":"3.8",
+        "piece":"1",
+        "price": "450"
+      },  
+       {
+        "id": "5f",
+        "brand":"Yves Rocher5",
+        "name": "Evidence Parfüm - Banyo Seti5",
+        "image":  "/images/parfume5.jpg",
+        "content":"Lizards are a widespread group of squamate reptiles, with over5 ",
+        "commentnumber":"12023",
+        "commentstart":"3.5",
+        "piece":"1",
+        "price": "750"
+      },
+      {
+        "id": "6f",
+        "brand":"Yves Rocher6",
+        "name": "Evidence Parfüm - Banyo Seti6",
+        "image":  "/images/parfume2.jpg",
+        "content":"Lizards are a widespread group of squamate reptiles, with over6 ",
+        "commentnumber":"1756",
+        "commentstart":"3.2",
+        "piece":"1",
+        "price": "678"
+      },
+      {
+        "id": "7f",
+        "brand":"Yves Rocher1",
+        "name": "Evidence Parfüm - Banyo Seti1",
+        "image": "/images/parfume1.jpg",
+        "content":"Lizards are a widespread group of squamate reptiles, with over1 ",
+        "commentnumber":"12003",
+        "commentstart":"4.5",
+        "piece":"1",
+        "price": "750"
+      },
+      {
+        "id": "8f",
+        "brand":"Yves Rocher2",
+        "name": "Evidence Parfüm - Banyo Seti2",
+        "image": "/images/parfume2.jpg",
+        "content":"Lizards are a widespread group of squamate reptiles, with over2 ",
+        "commentnumber":"17604",
+        "commentstart":"3.5",
+        "piece":"1",
+        "price": "650"
+      },
+      {
+        "id": "9f",
+        "brand":"Yves Rocher3",
+        "name": "Evidence Parfüm - Banyo Seti3",
+        "image": "/images/parfume3.jpg",
+        "content":"Lizards are a widespread group of squamate reptiles, with over3 ",
+        "commentnumber":"7043",
+        "commentstart":"4.2",
+        "piece":"1",
+        "price": "550"
+      },
+      {
+        "id": "10f",
+        "brand":"Yves Rocher4",
+        "name": "Evidence Parfüm - Banyo Seti4",
+        "image": "/images/parfume4.jpg",
+        "content":"Lizards are a widespread group of squamate reptiles, with over4 ",
+        "commentnumber":"3405",
+        "commentstart":"3.8",
+        "piece":"1",
+        "price": "450"
+      },  
+       {
+        "id": "11f",
+        "brand":"Yves Rocher5",
+        "name": "Evidence Parfüm - Banyo Seti5",
+        "image":  "/images/parfume5.jpg",
+        "content":"Lizards are a widespread group of squamate reptiles, with over5 ",
+        "commentnumber":"12023",
+        "commentstart":"3.5",
+        "piece":"1",
+        "price": "750"
+      },
+      {
+        "id": "12f",
+        "brand":"Yves Rocher6",
+        "name": "Evidence Parfüm - Banyo Seti6",
+        "image":  "/images/parfume2.jpg",
+        "content":"Lizards are a widespread group of squamate reptiles, with over6 ",
+        "commentnumber":"1756",
+        "commentstart":"3.2",
+        "piece":"1",
+        "price": "678"
+      }
+    ],
+    "womenProduct":[
+      {
+        "id": "1w",
+        "brand":"Mango",
+        "name": "Evidence Parfüm - Banyo Setiw",
+        "image": "/images/women1.jpg",
+        "content":"Lizards are a widespread group of squamate reptiles, with overwomen1 ",
+        "commentnumber":"12003",
+        "commentstart":"2.5",
+        "piece":"1",
+        "price": "750"
+      },
+      {
+        "id": "2w",
+        "brand":"Zara",
+        "name": "Evidence Parfüm - Banyo Setiw2",
+        "image": "/images/women2.jpg",
+        "content":"Lizards are a widespread group of squamate reptiles, with overwomen2 ",
+        "commentnumber":"12003",
+        "commentstart":"3.5",
+        "piece":"1",
+        "price": "750"
+      },
+      {
+        "id": "3w",
+        "brand":"Mavi",
+        "name": "Evidence Parfüm - Banyo Setiw3",
+        "image": "/images/women3.jpg",
+        "content":"Lizards are a widespread group of squamate reptiles, with overwomen3 ",
+        "commentnumber":"12003",
+        "commentstart":"3.7",
+        "piece":"1",
+        "price": "542"
+      },
+      {
+        "id": "4w",
+        "brand":"Yves Rochewome4n",
+        "name": "Evidence Parfüm - Banyo Seti4",
+        "image": "/images/women4.jpg",
+        "content":"Lizards are a widespread group of squamate reptiles, with overwomen4 ",
+        "commentnumber":"122303",
+        "commentstart":"2.5",
+        "piece":"1",
+        "price": "350"
+      },
+      {
+        "id": "5w",
+        "brand":"Yves Rocherwomen52",
+        "name": "Evidence Parfüm - Banyo Setiw5",
+        "image":  "/images/women5.jpg",
+        "content":"Lizards are a widespread group of squamate reptiles, with overwomen5 ",
+        "commentnumber":"12003",
+        "commentstart":"3.5",
+        "piece":"1",
+        "price": "750"
+      },
+      {
+        "id": "6w",
+        "brand":"Yves Rocherwomenw6",
+        "name": "Evidence Parfüm - Banyo Setiw6",
+        "image":  "/images/women6.jpg",
+        "content":"Lizards are a widespread group of squamate reptiles, with overwomen6 ",
+        "commentnumber":"12603",
+        "commentstart":"3.7",
+        "piece":"1",
+        "price": "342"
+      },
+      {
+        "id": "7w",
+        "brand":"Yves Rochewome7",
+        "name": "Evidence Parfüm - Banyo Setiw7",
+        "image":  "/images/women7.jpg",
+        "content":"Lizards are a widespread group of squamate reptiles, with overwomen7 ",
+        "commentnumber":"12003",
+        "commentstart":"2.5",
+        "piece":"1",
+        "price": "750"
+      },
+      {
+        "id": "8w",
+        "brand":"Yves Rocherwomenw8",
+        "name": "Evidence Parfüm - Banyo Setiw8",
+        "image":  "/images/women8.jpg",
+        "content":"Lizards are a widespread group of squamate reptiles, with overwomen8",
+        "commentnumber":"12003",
+        "commentstart":"3.5",
+        "piece":"1",
+        "price": "750"
+      },
+      {
+        "id": "9w",
+        "brand":"Yves Rocherwomenw9",
+        "name": "Evidence Parfüm - Banyo Setiw9",
+        "image":  "/images/women9.jpg",
+        "content":"Lizards are a widespread group of squamate reptiles, with overwomen9",
+        "commentnumber":"12003",
+        "commentstart":"3.7",
+        "piece":"1",
+        "price": "752"
+      },
+      {
+        "id": "10w",
+        "brand":"Yves Rochewome10",
+        "name": "Evidence Parfüm - Banyo Seti100",
+        "image": "/images/women10.jpg",
+        "content":"Lizards are a widespread group of squamate reptiles, with overwomen10 ",
+        "commentnumber":"122303",
+        "commentstart":"2.5",
+        "piece":"1",
+        "price": "690"
+      },
+      {
+        "id": "11w",
+        "brand":"Yves Rocherwomen11",
+        "name": "Evidence Parfüm - Banyo Setiw11",
+        "image": "/images/women11.jpg",
+        "content":"Lizards are a widespread group of squamate reptiles, with overwomen12",
+        "commentnumber":"12003",
+        "commentstart":"3.5",
+        "piece":"1",
+        "price": "750"
+      },
+      {
+        "id": "12w",
+        "brand":"Yves Rocherwomenw12",
+        "name": "Evidence Parfüm - Banyo Setiw12",
+        "image":  "/images/women12.jpg",
+        "content":"Lizards are a widespread group of squamate reptiles, with overwomen12",
+        "commentnumber":"12603",
+        "commentstart":"3.7",
+        "piece":"1",
+        "price": "342"
+      }
+    ],
+    "maleProduct":[
+      {
+        "id": "1m",
+        "brand":"Yves Rocherwomenw2",
+        "name": "Evidence Parfüm - Banyo Setiw2",
+        "image": "/images/male1.jpg",
+        "content":"Lizards are a widespread group of squamate reptiles, with overwomen2 ",
+        "commentnumber":"12003",
+        "commentstart":"3.5",
+        "piece":"1",
+        "price": "850"
+      },
+      {
+        "id": "2m",
+        "brand":"Yves Rocherwomenw2",
+        "name": "Evidence Parfüm - Banyo Setiw2",
+        "image": "/images/male2.jpg",
+        "content":"Lizards are a widespread group of squamate reptiles, with overwomen2 ",
+        "commentnumber":"12003",
+        "commentstart":"3.5",
+        "piece":"1",
+        "price": "250"
+      },
+      {
+        "id": "3m",
+        "brand":"Yves Rocherwomenw3",
+        "name": "Evidence Parfüm - Banyo Setiw3",
+        "image": "/images/male3.jpg",
+        "content":"Lizards are a widespread group of squamate reptiles, with overwomen3 ",
+        "commentnumber":"12003",
+        "commentstart":"3.7",
+        "piece":"1",
+        "price": "542"
+      },
+      {
+        "id": "4m",
+        "brand":"Yves Rocherwomenw4",
+        "name": "Evidence Parfüm - Banyo Setiw4",
+        "image": "/images/male4.jpg",
+        "content":"Lizards are a widespread group of squamate reptiles, with overwomen4 ",
+        "commentnumber":"12003",
+        "commentstart":"3.7",
+        "piece":"1",
+        "price": "542"
+      },
+      {
+        "id": "5m",
+        "brand":"Yves Rocherwomen52",
+        "name": "Evidence Parfüm - Banyo Setiw5",
+        "image": "/images/male5.jpg",
+        "content":"Lizards are a widespread group of squamate reptiles, with overwomen5 ",
+        "commentnumber":"12003",
+        "commentstart":"3.5",
+        "piece":"1",
+        "price": "750"
+      },
+      {
+        "id": "6m",
+        "brand":"Yves Rocherwomenw6",
+        "name": "Evidence Parfüm - Banyo Setiw6",
+        "image": "/images/male6.jpg",
+        "content":"Lizards are a widespread group of squamate reptiles, with overwomen6 ",
+        "commentnumber":"12603",
+        "commentstart":"3.7",
+        "piece":"1",
+        "price": "342"
+      },
+      {
+        "id": "7m",
+        "brand":"Yves Rochewome7",
+        "name": "Evidence Parfüm - Banyo Setiw7",
+        "image": "/images/male7.jpg",
+        "content":"Lizards are a widespread group of squamate reptiles, with overwomen7",
+        "commentnumber":"12003",
+        "commentstart":"2.5",
+        "piece":"1",
+        "price": "750"
+      },
+      {
+        "id": "8m",
+        "brand":"Yves Rocherwomenw8",
+        "name": "Evidence Parfüm - Banyo Setiw8",
+        "image": "/images/male8.jpg",
+        "content":"Lizards are a widespread group of squamate reptiles, with overwomen8",
+        "commentnumber":"12003",
+        "commentstart":"3.5",
+        "piece":"1",
+        "price": "750"
+      },
+      {
+        "id": "9m",
+        "brand":"Yves Rocherwomenw9",
+        "name": "Evidence Parfüm - Banyo Setiw9",
+        "image": "/images/male9.jpg",
+        "content":"Lizards are a widespread group of squamate reptiles, with overwomen9",
+        "commentnumber":"12003",
+        "commentstart":"3.7",
+        "piece":"1",
+        "price": "752"
+      },
+      {
+        "id": "10m",
+        "brand":"Yves Rochewome10",
+        "name": "Evidence Parfüm - Banyo Seti100",
+        "image": "/images/male10.jpg",
+        "content":"Lizards are a widespread group of squamate reptiles, with overwomen10",
+        "commentnumber":"122303",
+        "commentstart":"2.5",
+        "piece":"1",
+        "price": "690"
+      },
+      {
+        "id": "11m",
+        "brand":"Yves Rocherwomen11",
+        "name": "Evidence Parfüm - Banyo Setiw11",
+        "image": "/images/male11.jpg",
+        "content":"Lizards are a widespread group of squamate reptiles, with overwomen12",
+        "commentnumber":"12003",
+        "commentstart":"3.5",
+        "piece":"1",
+        "price": "750"
+      },
+      {
+        "id": "12m",
+        "brand":"Yves Rocherwomenw12",
+        "name": "Evidence Parfüm - Banyo Setiw12",
+        "image": "/images/male12.jpg",
+        "content":"Lizards are a widespread group of squamate reptiles, with overwomen12",
+        "commentnumber":"12603",
+        "commentstart":"3.7",
+        "piece":"1",
+        "price": "342"
+      }
+    ],
+    "cosmeticProducts":[
+      {
+        "id": "1c",
+        "brand":"Avon",
+        "name": "Evidence Parfüm - Banyo Setiw",
+        "image": "/images/cosmetic1.jpg",
+        "content":"Lizards are a widespread group of squamate reptiles, with overwomen1 ",
+        "commentnumber":"12003",
+        "commentstart":"2.5",
+        "piece":"1",
+        "price": "150"
+      },
+      {
+        "id": "2c",
+        "brand":"Bioderma",
+        "name": "Evidence Parfüm - Banyo Setiw2",
+        "image": "/images/cosmetic2.jpg",
+        "content":"Lizards are a widespread group of squamate reptiles, with overwomen2 ",
+        "commentnumber":"12003",
+        "commentstart":"3.5",
+        "piece":"1",
+        "price": "250"
+      },
+      {
+        "id": "3c",
+        "brand":"Nivea",
+        "name": "Evidence Parfüm - Banyo Setiw3",
+        "image": "/images/cosmetic3.jpg",
+        "content":"Lizards are a widespread group of squamate reptiles, with overwomen3 ",
+        "commentnumber":"12003",
+        "commentstart":"3.7",
+        "piece":"1",
+        "price": "300"
+      },
+      {
+        "id": "4c",
+        "brand":"Yves Roche",
+        "name": "Evidence Parfüm - Banyo Seti4",
+        "image": "/images/cosmetic4.jpg",
+        "content":"Lizards are a widespread group of squamate reptiles, with overwomen4 ",
+        "commentnumber":"122303",
+        "commentstart":"2.5",
+        "piece":"1",
+        "price": "350"
+      },
+      {
+        "id": "5c",
+        "brand":"La Roche ",
+        "name": "Evidence Parfüm - Banyo Setiw5",
+        "image":  "/images/cosmetic5.jpg",
+        "content":"Lizards are a widespread group of squamate reptiles, with overwomen5 ",
+        "commentnumber":"12003",
+        "commentstart":"3.5",
+        "piece":"1",
+        "price": "750"
+      },
+      {
+        "id": "6c",
+        "brand":"Bioderma",
+        "name": "Evidence Parfüm - Banyo Setiw6",
+        "image":  "/images/cosmetic6.jpg",
+        "content":"Lizards are a widespread group of squamate reptiles, with overwomen6 ",
+        "commentnumber":"12603",
+        "commentstart":"3.7",
+        "piece":"1",
+        "price": "342"
+      },
+      {
+        "id": "7c",
+        "brand":"Yves Roche",
+        "name": "Evidence Parfüm - Banyo Setiw7",
+        "image": "/images/cosmetic7.jpg",
+        "content":"Lizards are a widespread group of squamate reptiles, with overwomen7 ",
+        "commentnumber":"12003",
+        "commentstart":"2.5",
+        "piece":"1",
+        "price": "750"
+      },
+      {
+        "id": "8c",
+        "brand":"Bioderma",
+        "name": "Evidence Parfüm - Banyo Setiw8",
+        "image": "/images/cosmetic8.jpg",
+        "content":"Lizards are a widespread group of squamate reptiles, with overwomen8",
+        "commentnumber":"12003",
+        "commentstart":"3.5",
+        "piece":"1",
+        "price": "750"
+      },
+      {
+        "id": "9c",
+        "brand":"La Roche ",
+        "name": "Evidence Parfüm - Banyo Setiw9",
+        "image": "/images/cosmetic9.jpg",
+        "content":"Lizards are a widespread group of squamate reptiles, with overwomen9",
+        "commentnumber":"12003",
+        "commentstart":"3.7",
+        "piece":"1",
+        "price": "752"
+      },
+      {
+        "id": "10c",
+        "brand":"Avon",
+        "name": "Evidence Parfüm - Banyo Seti100",
+        "image": "/images/cosmetic1.jpg",
+        "content":"Lizards are a widespread group of squamate reptiles, with overwomen10 ",
+        "commentnumber":"122303",
+        "commentstart":"2.5",
+        "piece":"1",
+        "price": "690"
+      },
+      {
+        "id": "11c",
+        "brand":"Yves Roche",
+        "name": "Evidence Parfüm - Banyo Setiw11",
+        "image": "/images/cosmetic4.jpg",
+        "content":"Lizards are a widespread group of squamate reptiles, with overwomen12",
+        "commentnumber":"12003",
+        "commentstart":"3.5",
+        "piece":"1",
+        "price": "750"
+      },
+      {
+        "id": "12c",
+        "brand":"La Roche ",
+        "name": "Evidence Parfüm - Banyo Setiw12",
+       "image": "/images/cosmetic6.jpg",
+        "content":"Lizards are a widespread group of squamate reptiles, with overwomen12",
+        "commentnumber":"12603",
+        "commentstart":"3.7",
+        "piece":"1",
+        "price": "342"
+      }
+    ]
+}
+   
+  
